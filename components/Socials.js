@@ -12,12 +12,14 @@ const Socials = () => {
       <Link
         href={"https://www.linkedin.com/in/ivisheshrajput/"}
         className="hover:text-accent transition-all duration-300"
+        target="_blank"
       >
         <RiLinkedinLine />
       </Link>
       <Link
         href={"https://github.com/ivisheshrajput"}
         className="hover:text-accent transition-all duration-300"
+        target="_blank"
       >
         <RiGithubLine />
       </Link>
@@ -32,12 +34,14 @@ const Socials = () => {
       <Link
         href={"https://www.instagram.com/ivisheshrajput/"}
         className="hover:text-accent transition-all duration-300"
+        target="_blank"
       >
         <RiInstagramLine />
       </Link>
       <Link
         href={"https://www.facebook.com/"}
         className="hover:text-accent transition-all duration-300"
+        target="_blank"
       >
         <RiFacebookLine />
       </Link>
