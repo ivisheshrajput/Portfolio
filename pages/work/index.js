@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../variants";
 const Work = () => {
   return (
-    <div className="h-full bg-primary/30 py-36 flex items-center">
+    <div className="bg-primary/30 py-36 flex items-center lg:h-full pt-32   lg:pt-0 ">
       <Circles />
       <div className="container mx-auto">
         <div className="flex flex-col xl:flex-row mt-2 h-full items-center gap-x-8">
