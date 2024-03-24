@@ -64,6 +64,25 @@ const workSlides = {
         },
       ],
     },
+    {
+      images: [
+        {
+          title: "Weather",
+          path: "/Thumb9.png",
+          link: "https://weather-psi-red.vercel.app/",
+        },
+        {
+          title: "Weather",
+          path: "/Thumb10.png",
+          link: "https://weather-psi-red.vercel.app/",
+        },
+        {
+          title: "Weather",
+          path: "/Thumb11.png",
+          link: "https://weather-psi-red.vercel.app/",
+        },
+      ],
+    },
   ],
 };
 
